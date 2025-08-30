@@ -66,7 +66,7 @@ Food-Del-App/
 ## ⚙️ Getting Started
 
 ### 1️⃣ Clone the Repository
-```bash
+
 git clone https://github.com/AwaisCodeBase/Food-Del-App.git
 cd Food-Del-App
 
