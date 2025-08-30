@@ -32,8 +32,15 @@ app.get("/", (req, res)=> {
     res.send("API Working!")
 })
 
-app.listen(PORT, () => {
-    console.log(`Server is running on port http://localhost: ${PORT}`);
-})
+
+// for deploying on vercel
+
+
+// app.listen(PORT, () => {
+//     console.log(`Server is running on port http://localhost: ${PORT}`);
+// })
+
+export default app;
+
 
 
